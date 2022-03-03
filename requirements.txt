@@ -2,7 +2,7 @@
 # which are installed on reboot
 
 pytgcalls==3.0.0.dev21
-
+fuzzywuzzy
 akinator.py
 apscheduler
 bs4
